@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+# Сайт-визитка приложения курсовго проекта
+- Саакови Давит
+- Пронин Павел
+- Васютин Иван
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Демонстрация работы сайта
+![Описание проекта](https://github.com/user-attachments/assets/cab832ce-414d-4f04-8464-cc6d51656094)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+![Видеодемонстрация](https://github.com/user-attachments/assets/b1909525-806b-44bf-bc3f-634eb8ac0f74)
+
+![Инструкция](https://github.com/user-attachments/assets/a0cf6414-a7b7-4528-941b-f9839e3c5a2f)
+
+![Контакты](https://github.com/user-attachments/assets/2c01bb9c-7acf-44e5-8954-4cb4fb95a0ea)
